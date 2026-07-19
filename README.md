@@ -17,7 +17,9 @@ This portfolio highlights my practical skills in:
 📊 Projects Included
 
 📈 Business Analytics Dashboard – Sales, revenue, profit, customer segmentation, and performance analysis.
+
 🤖 AI Job Market Analytics Dashboard – AI hiring trends, salary analysis, employment types, and company hiring insights.
+
 🌍 Tourism Analytics Dashboard – Destination performance, travel budgets, tourist behavior, and tourism insights.
 
 🛠 Tools & Technologies
